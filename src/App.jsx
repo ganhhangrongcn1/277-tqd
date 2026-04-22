@@ -179,7 +179,7 @@ const supabaseUrl = "https://nobemjcugpxczqtqocai.supabase.co";
 const supabaseAnonKey = "sb_publishable_7SiQ4eq7-gUorVG2OC0qxg_wKfSM3CW";
 const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
-const TARGET_HUB_ID = "69e589d15f07d302954e2f63"; // Chi nhánh 30/4
+const TARGET_HUB_ID = "69e589d15f07d302954e2f63"; // Chi nhánh Thích Quảng Đức
 
 function formatPlatformOrderCode(platform, maDonSan) {
   const raw = String(maDonSan || "").trim();
@@ -1386,7 +1386,7 @@ export default function App() {
                     Bảng bếp realtime
                   </div>
                   <div style={{ color: "#64748b", fontSize: 13, marginTop: 4 }}>
-                    Tối ưu ngang cho iPad Gen 5 • Chi nhánh 30/4
+                    APP nhận đơn • Chi nhánh 277 Thích Quảng Đức
                   </div>
                 </div>
 
